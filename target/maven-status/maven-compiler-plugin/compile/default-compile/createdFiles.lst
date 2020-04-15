@@ -1,0 +1,8 @@
+example/smallest/ServiceSpec.class
+example/smallest/SpringBootStarterSampleApplication.class
+example/smallest/CustomServiceList.class
+example/smallest/controllers/WelcomeController.class
+example/smallest/CustomServiceController.class
+example/smallest/CustomService.class
+example/smallest/CustomServiceDoneable.class
+example/smallest/Config.class
